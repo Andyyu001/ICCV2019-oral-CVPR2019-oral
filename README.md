@@ -97,4 +97,203 @@ code: none
 
 
 CVPR2019 oral paper
-
+1. Unsupervised Person Re-Identification by Soft Multilabel Learning
+code: https://github.com/KovenYu/MAR
+1. Lifting Vectorial Variational Problems: A Natural Formulation based on Discrete Exterior Calculus and Geometric Measure Theory
+code: https://github.com/moellenh/vectorial-lifting
+1. Self-calibrating Deep Photometric Stereo Networks 
+code：http://gychen.org/SDPS-Net/
+1. ADVENT_ Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation
+code:https://github.com/valeoai/ADVENT
+1. UPSNet: A Unified Panoptic Segmentation Network
+code: https://github.com/uber-research/UPSNet
+1.  Image Deformation Meta-Networks for One-Shot Learning
+code: https://github.com/tankche1/IDeMe-Net
+1. DVC: An End-to-end Deep Video Compression Framework
+code:https://github.com/GuoLusjtu/DVC
+1. Modulating Image Restoration With Continual Levels via Adaptive Feature Modification Layers
+code:https://github.com/hejingwenhejingwen/AdaFM
+1. Residual Networks for Light Field Image Super-Resolution
+code:https://github.com/shuozh/resLF
+1. Second-order Attention Network for Single Image Super-Resolution
+code: https://github.com/daitao/SAN
+1.  Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera
+code: https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera
+1. Learning to Synthesize Motion Blur
+code: https://github.com/joel-roger/motion_blur
+1. Underexposed Photo Enhancement using Deep Illumination Estimation
+code:https://github.com/wangruixing/DeepUPE
+1. Animating Arbitrary Objects via Deep Motion Transfer
+code:https://github.com/AliaksandrSiarohin/monkey-net
+1. DeepVoxels: Learning Persistent 3D Feature Embeddings
+code: https://github.com/vsitzmann/deepvoxels
+1. Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping
+code: none
+1. Label-Noise Robust Generative Adversarial Networks
+code: https://github.com/takuhirok/rGAN
+1. Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation
+code:https://github.com/Ha0Tang/SelectionGAN
+1. Progressive Pose Attention Transfer for Person Image Generation
+code: https://github.com/tengteng95/Pose-Transfer
+1. Semantic Image Synthesis With Spatially-Adaptive Normalization
+code: https://github.com/elvisyjlin/SpatiallyAdaptiveNormalization
+1. Unsupervised Person Image Generation with Semantic Parsing Transformation
+code: https://github.com/SijieSong/person_generation_spt
+1.  APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs
+code: https://github.com/yiranran/APDrawingGAN
+1. FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery
+code: https://github.com/kkanshul/finegan
+1. GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction
+code: https://github.com/barisgecer/GANFit
+1. Mask-Guided Portrait Editing with Conditional GANs
+code:https://github.com/cientgu/Mask_Guided_Portrait_Editing
+1. OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations
+code:https://github.com/nuclearboy95/Anomaly-Detection-OCGAN-tensorflow
+1. RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion
+code: https://github.com/iSarmad/RL-GAN-Net
+1. Rob-GAN: Generator, Discriminator, and Adversarial Attacker
+code: https://github.com/xuanqing94/RobGAN
+1. Self-Supervised GANs via Auxiliary Rotation Loss
+code:https://github.com/vandit15/Self-Supervised-Gans-Pytorch
+1. STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing
+code: https://github.com/bluestyle97/STGAN-pytorch
+1. StoryGAN: A Sequential Conditional GAN for Story Visualization
+code:https://github.com/yitong91/StoryGAN
+1. A Generative Appearance Model for End-to-end Video Object Segmentation
+code:https://github.com/joakimjohnander/agame-vos
+1. DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency Detection
+code:https://github.com/KuangJuiHsu/DeepCO3/
+1.  Improving Semantic Segmentation via Video Propagation and Label Relaxation
+code:https://github.com/NVIDIA/semantic-segmentation
+1. Structured Knowledge Distillation for Semantic Segmentation
+code:https://github.com/irfanICMLL/structure_knowledge_distillation
+1. Taking a Deeper Look at the Inverse Compositional Algorithm
+code:https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm
+1. Side Window Filtering
+code:https://github.com/dontLoveBugs/SideWindowFilter
+1. End-to-end Projector Photometric Compensation
+code:https://github.com/BingyaoHuang/CompenNet
+1. Adversarial Inference for Multi-Sentence Video Description
+code:https://github.com/jamespark3922/adv-inf
+1. Learning to Learn How to Learn: Self-Adaptive Visual Navigation using Meta-Learning
+code:https://github.com/allenai/savn
+1. A Style-Based Generator Architecture for Generative Adversarial Networks
+code:https://github.com/rosinality/style-based-gan-pytorch
+1. Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation
+code:https://github.com/MenghaoGuo/AutoDeeplab
+1. Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses
+code:https://github.com/jeromerony/fast_adversarial
+1. DeepCaps: Going Deeper with Capsule Networks
+code:https://github.com/HopefulRational/DeepCaps-PyTorch
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
+1. 
+code:
