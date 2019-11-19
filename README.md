@@ -94,3 +94,7 @@ code: none
 31. Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
 paper: https://arxiv.org/abs/1908.09597 
 code: none 
+
+
+CVPR2019 oral paper
+
