@@ -2,18 +2,23 @@
 
 ICCV2019 oral paper：
 1. Interpolated Convolutional Networks for 3D Point Cloud Understanding
+
 paper： https://arxiv.org/abs/1908.04512
 code： None
 2. Memory-Based Neighbourhood Embedding for Visual Recognition
+
 paper：https://arxiv.org/abs/1908.04992
 code： None
 3. Learning Trajectory Dependencies for Human Motion Prediction
+
 paper： https://arxiv.org/abs/1908.05436
 code： https://github.com/wei-mao-2019/LearnTrajDep
 4. Domain Adaptation for Structured Output via Discriminative Patch Representations
+
 paper：https://arxiv.org/abs/1901.05427
 code：None
 5. Deep Non-Rigid Structure from Motion
+
 paper：https://arxiv.org/abs/1908.00052
 code： None
 6. Scalable Place Recognition Under Appearance Change for Autonomous Driving
