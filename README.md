@@ -185,20 +185,20 @@ code:https://github.com/MenghaoGuo/AutoDeeplab
 code:https://github.com/jeromerony/fast_adversarial
 1. DeepCaps: Going Deeper with Capsule Networks
 code:https://github.com/HopefulRational/DeepCaps-PyTorch
-1. 
-code:
-1. 
-code:
-1. 
-code:
-1. 
-code:
-1. 
-code:
-1. 
-code:
-1. 
-code:
+1. Hardness-Aware Deep Metric Learning
+code:https://github.com/neka-nat/pytorch-hdml
+1. Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation
+code:https://github.com/taki0112/GDWCT-Tensorflow
+1. Kervolutional Neural Networks
+code:https://github.com/gan3sh500/kervolution-pytorch
+1. Practical Full Resolution Learned Lossless Image Compression
+code: https://github.com/fab-jul/L3C-PyTorch
+1. Sphere Generative Adversarial Network Based on Geometric Moment Matching
+code:https://github.com/Dotori-HJ/SphereGAN-Pytorch-implementation
+1. Tangent-Normal Adversarial Regularization for Semi-Supervised Learning
+code:https://github.com/uuujf/TNAR
+1. Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem
+code:https://github.com/max-andr/relu_networks_overconfident
 1. 
 code:
 1. 
