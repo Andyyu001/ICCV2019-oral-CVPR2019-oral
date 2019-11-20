@@ -48,51 +48,67 @@ paper: https://arxiv.org/abs/1908.09597
 code: none
 
 ICCV2019 oral paper（code）：
+
 7. Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations 
 paper: https://arxiv.org/abs/1908.01940
 code: https://github.com/jeringeo/CompressiveFlows
+
 9. Weakly Supervised Energy-Based Learning for Action Segmentation
 paper: http://arxiv.org/abs/1909.13155
 code: https://github.com/JunLi-Galios/CDFL
+
 10. Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification
 paper: https://arxiv.org/abs/1811.10144
 code: https://github.com/OasisYang/SSG
+
 11. Controllable Artistic Text Style Transfer via Shape-Matching GAN
 paper: https://arxiv.org/abs/1905.01354
 code: https://github.com/TAMU-VITA/ShapeMatchingGAN
+
 13. Expectation-Maximization Attention Networks for Semantic Segmentation
 paper: https://arxiv.org/abs/1907.13426
 code: https://github.com/XiaLiPKU/EMANet
+
 15. CARAFE: Content-Aware ReAssembly of FEatures
 paper: https://arxiv.org/pdf/1905.02188.pdf
 code: https://github.com/XiaLiPKU/CARAFE
+
 17. Equivariant Multi-View Networks
 paper: https://arxiv.org/abs/1904.00993
 code:  https://github.com/daniilidis-group/emvn
+
 19. Learnable Triangulation of Human Pose
 paper: https://arxiv.org/abs/1905.05754
 code: https://github.com/deform-lab/Learnable-Triangulation-of-Human-Pose
+
 20. Learning Implicit Generative Models by Matching Perceptual Features
 paper: https://arxiv.org/abs/1904.02762v1
 code: https://github.com/IBM/gfmn
+
 21. COCO-GAN: Generation by Parts via Conditional Coordinating
 paper: https://arxiv.org/abs/1904.00284
 code: https://github.com/hubert0527/COCO-GAN
+
 22. SlowFast Networks for Video Recognition
 paper: https://arxiv.org/abs/1812.03982
 code: https://github.com/mbiparva/slowfast-networks-pytorch
+
 23. Exploring Randomly Wired Neural Networks for Image Recognition
 paper: https://arxiv.org/abs/1904.01569
 code: https://github.com/JihaoLee/Randomly_Wired_reproducibility
+
 24. Can GCNs Go as Deep as CNNs?
 paper: https://arxiv.org/abs/1904.03751
 code: https://github.com/lightaime/deep_gcns_torch
+
 3. Learning Trajectory Dependencies for Human Motion Prediction
 paper： https://arxiv.org/abs/1908.05436
 code： https://github.com/wei-mao-2019/LearnTrajDep
+
 26. Meta-Sim Learning to Generate Synthetic Datasets
 paper: https://arxiv.org/abs/1904.11621
 code: https://github.com/nv-tlabs/meta-sim
+
 28. Variational Adversarial Active Learning
 paper: https://arxiv.org/abs/1904.00370
 code: https://github.com/sinhasam/vaal
