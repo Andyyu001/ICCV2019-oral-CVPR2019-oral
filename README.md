@@ -199,16 +199,16 @@ code:https://github.com/Dotori-HJ/SphereGAN-Pytorch-implementation
 code:https://github.com/uuujf/TNAR
 1. Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem
 code:https://github.com/max-andr/relu_networks_overconfident
-1. 
-code:
-1. 
-code:
-1. 
-code:
-1. 
-code:
-1. 
-code:
+1. AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data
+code:http://maple-lab.net/projects/AET.htm
+1. ContextDesc: Local Descriptor Augmentation with Cross-Modality Context
+code:https://github.com/lzx551402/contextdesc
+1. Learning Correspondence from the Cycle-consistency of Time
+code:https://github.com/xiaolonw/TimeCycle
+1. Learning Spatial Common Sense with Geometry-Aware Recurrent Networks
+code:https://github.com/ricsonc/grnn
+1. Mitigating Information Leakage in Image Representations: A Maximum Entropy Approach
+code: https://github.com/human-analysis/MaxEnt-ARL
 1. 
 code:
 1. 
